@@ -8,11 +8,11 @@ Demonstrates controlling a player character, solidity collision, enemy collision
 
 **Project Goals**:
 
-- display a background
-- have at least 1 un-movable object
-- have at least 1 moveable object
-- include collisions of at least 2 objects (player, obstacles, enemies)
-- take user input from the keyboard
+- Display a background
+- Have at least 1 un-movable object
+- Have at least 1 moveable object
+- Include collisions of at least 2 objects (player, obstacles, enemies)
+- Take user input from the keyboard
 
 **Stretch Goals**:
 
