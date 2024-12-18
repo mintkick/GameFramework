@@ -16,7 +16,7 @@ Demonstrates controlling a player character, solidity collision, enemy collision
 
 **Stretch Goals**:
 
-[x] Add music and sound effects to the game
+- [x] Add music and sound effects to the game
 
 ## Instructions for Build and Use
 
